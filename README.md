@@ -14,7 +14,7 @@ I am a passionate Frontend Developer and Backend Enthusiast from India, focused 
 
 ## Technical Skills
 - Frontend: React.js, Redux Toolkit, JavaScript, HTML5, CSS3
-- Backend: Node.js (basic), Express.js (learning)
+- Backend: Node.js , Express.js ,MongoDB , Mongoose
 - Databases: MongoDB (learning)
 - Tools: Git, GitHub, VS Code, Postman
 
