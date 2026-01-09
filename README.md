@@ -1,7 +1,7 @@
 # Hi, I'm PRATEEK SARASWAT
 
 ## About Me
-I am a passionate Frontend Developer and Backend Enthusiast from India, focused on building scalable and efficient web applications. I enjoy learning new technologies and consistently improving my technical skills.
+I am a passionate Full-stack Developer and Backend Enthusiast from India, focused on building scalable and efficient web applications. I enjoy learning new technologies and consistently improving my technical skills.
 
 ## Current Focus
 - Building full-stack applications using the MERN Stack
