@@ -138,7 +138,7 @@ Production-ready SaaS with full multi-tenancy architecture
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateek-saraswat&theme=tokyonight)
 
@@ -150,7 +150,7 @@ Production-ready SaaS with full multi-tenancy architecture
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateek-saraswat&theme=tokyonight)
 
-</div>
+</div> -->
 
 <div align="center">
 
