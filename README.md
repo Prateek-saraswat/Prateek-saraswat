@@ -152,6 +152,29 @@ Production-ready SaaS with full multi-tenancy architecture
 
 </div>
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateek-saraswat&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateek-saraswat&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateek-saraswat&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-saraswat&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ##  Education & Certifications
