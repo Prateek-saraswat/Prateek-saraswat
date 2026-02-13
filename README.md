@@ -9,23 +9,23 @@
 <p align="center">
   <a href="mailto:saraswatprateek0@gmail.com"><img src="https://img.shields.io/badge/Email-saraswatprateek0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prateek-saraswat-10a7a6244/"><img src="https://img.shields.io/badge/LinkedIn-Prateek%20Saraswat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/prateeksaraswat"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Prateek-saraswat"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ##  About Me
 
-I'm a **Full-Stack Developer** currently working at **Excellence Technologies**, where I build end-to-end web applications and scalable backend systems. I'm passionate about merging traditional full-stack development with cutting-edge **AI technologies** — from RAG systems to autonomous LLM agents.
+I'm a **Full-Stack Developer** currently working in **Noida**, where I build end-to-end web applications and scalable backend systems. I'm passionate about merging traditional full-stack development with cutting-edge **AI technologies** — from RAG systems to autonomous LLM agents.
 
 ```javascript
 const prateek = {
   location: "Gurgaon, India 🇮🇳",
-  currentRole: "Jr. Full Stack Developer @ Excellence Technologies",
+  currentRole: "Jr. Full Stack Developer ",
   education: "B.Tech in ECE | MAIT, Delhi | CGPA: 7.63",
   interests: ["Full-Stack Development", "AI/ML Integration", "System Design", "Open Source"],
   currentlyLearning: ["LangGraph", "Advanced RAG", "System Architecture", "DSA"],
-  funFact: "I build AI agents that autonomously manage e-commerce systems! 🤖🛒"
+  funFact: "I build AI agents that autonomously manage e-commerce systems! "
 };
 ```
 
@@ -35,10 +35,10 @@ const prateek = {
 
 ### Jr. Full Stack Developer |
 **Dec 2025 – Present | Noida**
-- 🔨 Developing production-grade web applications using **React.js, Node.js, Express.js, MongoDB**
-- 🔐 Building secure **REST APIs** with **JWT authentication** and **RBAC**
-- ⚡ Optimizing application performance and implementing best engineering practices
-- 🤝 Collaborating in cross-functional teams with Git-based workflows
+-  Developing production-grade web applications using **React.js, Node.js, Express.js, MongoDB**
+-  Building secure **REST APIs** with **JWT authentication** and **RBAC**
+-  Optimizing application performance and implementing best engineering practices
+-  Collaborating in cross-functional teams with Git-based workflows
 
 ###  Front-End Development Intern | CodeXintern
 **Nov 2024 – Jan 2025 | Remote**
