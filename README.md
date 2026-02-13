@@ -140,11 +140,11 @@ Production-ready SaaS with full multi-tenancy architecture
 
 <div align="center">
   
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-saraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateek-saraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-saraswat&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-saraswat&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prateek-saraswat&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateek-saraswat&theme=tokyonight&hide_border=true)
 
 </div>
 
