@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Full-Stack Developer** currently working at **Excellence Technologies**, where I build end-to-end web applications and scalable backend systems. I'm passionate about merging traditional full-stack development with cutting-edge **AI technologies** — from RAG systems to autonomous LLM agents.
 
@@ -31,24 +31,24 @@ const prateek = {
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏢 Jr. Full Stack Developer | Excellence Technologies
+### Jr. Full Stack Developer |
 **Dec 2025 – Present | Noida**
 - 🔨 Developing production-grade web applications using **React.js, Node.js, Express.js, MongoDB**
 - 🔐 Building secure **REST APIs** with **JWT authentication** and **RBAC**
 - ⚡ Optimizing application performance and implementing best engineering practices
 - 🤝 Collaborating in cross-functional teams with Git-based workflows
 
-### 💻 Front-End Development Intern | CodeXintern
+###  Front-End Development Intern | CodeXintern
 **Nov 2024 – Jan 2025 | Remote**
-- ⚛️ Built responsive interfaces with **React.js** and modern JavaScript (ES6+)
-- 📈 Improved application performance by **20%** through component optimization
-- 🎯 Worked in Agile teams with focus on reusable component architecture
+-  Built responsive interfaces with **React.js** and modern JavaScript (ES6+)
+-  Improved application performance by **20%** through component optimization
+-  Worked in Agile teams with focus on reusable component architecture
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,54 +83,54 @@ const prateek = {
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🤖 AI-Powered Knowledge Assistant (RAG System)
+###  AI-Powered Knowledge Assistant (RAG System)
 **Advanced Retrieval-Augmented Generation System**
 
-🎯 Built a production-ready RAG system for intelligent document-based Q&A
-- ✅ Implemented **document chunking, embeddings, and vector retrieval**
-- 🔐 JWT authentication with **chat history** and **admin monitoring**
-- 💡 Context-aware responses using advanced prompt engineering
-- 🛠️ **Tech:** Python, LangChain, FastAPI, MongoDB, React.js
+ Built a production-ready RAG system for intelligent document-based Q&A
+-  Implemented **document chunking, embeddings, and vector retrieval**
+-  JWT authentication with **chat history** and **admin monitoring**
+-  Context-aware responses using advanced prompt engineering
+-  **Tech:** Python, LangChain, FastAPI, MongoDB, React.js
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/rag-system)
 
 ---
 
-### 🛍️ Shop-Keep - Autonomous E-Commerce Platform
+###  Shop-Keep - Autonomous E-Commerce Platform
 **LangGraph-Powered Intelligent Agent System**
 
-🚀 Built an AI agent that autonomously manages an entire e-commerce workflow
-- 🤖 Agent **researches products**, downloads assets, and updates inventory
-- 🗄️ Autonomous **MongoDB** operations and UI verification
-- 🌐 Browser automation for functional testing
-- 🧠 **Tech:** LangGraph, Python, MongoDB, Playwright, Node.js
+ Built an AI agent that autonomously manages an entire e-commerce workflow
+-  Agent **researches products**, downloads assets, and updates inventory
+-  Autonomous **MongoDB** operations and UI verification
+-  Browser automation for functional testing
+-  **Tech:** LangGraph, Python, MongoDB, Playwright, Node.js
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/shop-keep)
 
 ---
 
-### 📊 Multi-Tenant SaaS Platform
+### Multi-Tenant SaaS Platform
 **Enterprise-Grade Project & Task Management System**
 
-💼 Production-ready SaaS with full multi-tenancy architecture
-- 👥 **Multi-tenancy** with organization isolation
-- 🔑 JWT authentication + **Role-Based Access Control (RBAC)**
-- 📋 Kanban boards, time tracking, billing, and analytics
-- 📧 Real-time notifications and reporting dashboards
-- 🛠️ **Tech:** MERN Stack, JWT, WebSockets
+Production-ready SaaS with full multi-tenancy architecture
+-  **Multi-tenancy** with organization isolation
+-  JWT authentication + **Role-Based Access Control (RBAC)**
+-  Kanban boards, time tracking, billing, and analytics
+-  Real-time notifications and reporting dashboards
+-  **Tech:** MERN Stack, JWT, WebSockets
 
 ---
 
-### 🧪 Prompt Engineering & Reasoning Lab
+###  Prompt Engineering & Reasoning Lab
 **Advanced LLM Experimentation Platform**
 
-🔬 Interactive web lab for testing cutting-edge prompting techniques
-- 🧠 Chain-of-Thought, Self-Consistency, ReAct, Tree-of-Thoughts
-- 🛡️ Prompt injection testing and security analysis
-- 📝 Prompt versioning and optimization tools
-- 🛠️ **Tech:** React.js, Node.js, OpenAI API
+ Interactive web lab for testing cutting-edge prompting techniques
+-  Chain-of-Thought, Self-Consistency, ReAct, Tree-of-Thoughts
+-  Prompt injection testing and security analysis
+-  Prompt versioning and optimization tools
+-  **Tech:** React.js, Node.js, OpenAI API
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/prompt-lab)
 
@@ -150,30 +150,30 @@ const prateek = {
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-🎓 **B.Tech in Electronics and Communication Engineering**  
-📍 Maharaja Agrasen Institute of Technology, Delhi | **CGPA: 7.63/10** | 2021-2025
+ **B.Tech in Electronics and Communication Engineering**  
+ Maharaja Agrasen Institute of Technology, Delhi | **CGPA: 7.63/10** | 2021-2025
 
-### 📜 Certifications
-- ✅ Full Stack Development – **Internshala** (React, Node.js, Express.js, MongoDB)
-- ✅ Git and GitHub: Mastering Version Control – **Internshala**
-- ✅ HackerRank: **Certified Front-End Developer**
-- ✅ TuteDude: **Certified React Developer**
-
----
-
-## 🎯 Current Goals
-
-- 🌱 Deepening expertise in **LangGraph** and **Advanced RAG architectures**
-- 🚀 Building production-grade **AI-powered applications**
-- 🤝 Contributing to **Open Source** projects
-- 📚 Mastering **System Design** and **Advanced DSA**
-- 🏗️ Exploring **Microservices** and **Cloud Architecture**
+###  Certifications
+-  Full Stack Development – **Internshala** (React, Node.js, Express.js, MongoDB)
+-  Git and GitHub: Mastering Version Control – **Internshala**
+-  HackerRank: **Certified Front-End Developer**
+-  TuteDude: **Certified React Developer**
 
 ---
 
-## 💡 What I'm Working On
+##  Current Goals
+
+-  Deepening expertise in **LangGraph** and **Advanced RAG architectures**
+-  Building production-grade **AI-powered applications**
+-  Contributing to **Open Source** projects
+-  Mastering **System Design** and **Advanced DSA**
+-  Exploring **Microservices** and **Cloud Architecture**
+
+---
+
+##  What I'm Working On
 
 ```python
 current_projects = {
@@ -198,7 +198,7 @@ current_projects = {
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always open to interesting conversations, collaboration opportunities, and discussing the latest in tech and AI!
 
