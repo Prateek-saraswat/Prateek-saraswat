@@ -94,7 +94,7 @@ const prateek = {
 -  Context-aware responses using advanced prompt engineering
 -  **Tech:** Python, LangChain, FastAPI, MongoDB, React.js
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/rag-system)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-saraswat/rag-system)
 
 ---
 
@@ -107,7 +107,7 @@ const prateek = {
 -  Browser automation for functional testing
 -  **Tech:** LangGraph, Python, MongoDB, Playwright, Node.js
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/shop-keep)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-saraswat/shop-keep)
 
 ---
 
@@ -132,7 +132,7 @@ Production-ready SaaS with full multi-tenancy architecture
 -  Prompt versioning and optimization tools
 -  **Tech:** React.js, Node.js, OpenAI API
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateeksaraswat/prompt-lab)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-saraswat/prompt-lab)
 
 ---
 
@@ -140,11 +140,11 @@ Production-ready SaaS with full multi-tenancy architecture
 
 <div align="center">
   
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateeksaraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-saraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeksaraswat&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-saraswat&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateeksaraswat&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prateek-saraswat&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -156,8 +156,8 @@ Production-ready SaaS with full multi-tenancy architecture
  Maharaja Agrasen Institute of Technology, Delhi | **CGPA: 7.63/10** | 2021-2025
 
 ###  Certifications
--  Full Stack Development – **Internshala** (React, Node.js, Express.js, MongoDB)
--  Git and GitHub: Mastering Version Control – **Internshala**
+-  Full Stack Development –  (React, Node.js, Express.js, MongoDB)
+-  Git and GitHub: Mastering Version Control 
 -  HackerRank: **Certified Front-End Developer**
 -  TuteDude: **Certified React Developer**
 
@@ -206,10 +206,10 @@ I'm always open to interesting conversations, collaboration opportunities, and d
   <a href="mailto:saraswatprateek0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/prateek-saraswat-10a7a6244/">
+  <a href="https://www.linkedin.com/in/Prateek-saraswat-10a7a6244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/prateeksaraswat">
+  <a href="https://github.com/Prateek-saraswat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -218,10 +218,10 @@ I'm always open to interesting conversations, collaboration opportunities, and d
 
 <div align="center">
 
-### ⭐ From [Prateek Saraswat](https://github.com/prateeksaraswat)
+### ⭐ From [Prateek Saraswat](https://github.com/Prateek-saraswat)
 
 **"Building the future, one commit at a time"** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=prateeksaraswat&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Prateek-saraswat&color=blueviolet&style=for-the-badge)
 
 </div>
