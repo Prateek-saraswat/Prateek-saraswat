@@ -140,11 +140,15 @@ Production-ready SaaS with full multi-tenancy architecture
 
 <div align="center">
   
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateek-saraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateek-saraswat&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-saraswat&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateek-saraswat&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateek-saraswat&theme=tokyonight&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateek-saraswat&theme=tokyonight)
+
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-saraswat&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateek-saraswat&theme=tokyonight)
 
 </div>
 
